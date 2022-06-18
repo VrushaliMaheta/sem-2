@@ -3,7 +3,6 @@ class practical1
   public static void main(String[] args)
   {
     System.out.println("Hello World..!!");
-    System.out.println("Good Morning...!!");
-    System.out.println("Hello Good Afternoon...!!");
+    System.out.println("This is a Practical1...");
   }
 }
